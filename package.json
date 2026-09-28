@@ -1,0 +1,16 @@
+{
+  "name": "safa-y-educational-center",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Safa Y Educational Center - full AI English learning platform",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
